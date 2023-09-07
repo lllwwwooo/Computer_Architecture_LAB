@@ -1,0 +1,14 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/codes/vivado/lab_4/lab_4.gen/sources_1/ip/block_mem/sim/block_mem.v,1693899437,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/alu.v,,block_mem,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.gen/sources_1/ip/block_mem1/sim/block_mem1.v,1693899475,verilog,,D:/codes/vivado/lab_4/lab_4.gen/sources_1/ip/block_mem/sim/block_mem.v,,block_mem1,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sim_1/new/cpu_tb.v,1693965300,verilog,,,,cpu_tb,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/alu.v,1693893091,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/cpu.v,,alu,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/cpu.v,1694049777,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/cpu_top.v,,cpu,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/cpu_top.v,1693895837,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/data_mem.v,,cpu_top,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/data_mem.v,1693969446,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/instr_mem.v,,data_mem,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/instr_mem.v,1693968978,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/register.v,,instr_mem,,,,,,,,
+D:/codes/vivado/lab_4/lab_4.srcs/sources_1/new/register.v,1693893212,verilog,,D:/codes/vivado/lab_4/lab_4.srcs/sim_1/new/cpu_tb.v,,register,,,,,,,,
